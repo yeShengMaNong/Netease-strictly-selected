@@ -14,7 +14,7 @@
     "lib-flexible": "^0.3.2",
     "lodash": "^4.17.15",
     "mint-ui": "^2.2.13",
-    "postcss": "^7.0.27",
+    "postcss": "^8.2.10",
     "postcss-loader": "^3.0.0",
     "postcss-px2rem": "^0.3.0",
     "px2rem": "^0.5.0",
